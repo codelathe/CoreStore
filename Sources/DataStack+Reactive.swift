@@ -30,6 +30,7 @@ import Combine
 
 // MARK: - DataStack
 
+@available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
 extension DataStack {
     
     // MARK: Public
@@ -69,6 +70,7 @@ extension DataStack {
 
 // MARK: - DataStack.ReactiveNamespace
 
+@available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
 extension DataStack.ReactiveNamespace {
     
     // MARK: Public
